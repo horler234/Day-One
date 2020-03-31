@@ -1,0 +1,31 @@
+html body {
+  background: #26b3be;
+  background: linear-gradient(90deg, #26b3be 21%, #25c0f1 68%, #a6e1dd 100%);
+  color: white; }
+
+p.fill {
+  margin-bottom: 80px; }
+
+.form-container {
+  padding-left: 50px; }
+
+.input-container {
+  margin-bottom: 30px; }
+
+input.message {
+  height: 150px; }
+
+button.submit-btn {
+  font-weight: 600;
+  color: white;
+  border-color: white;
+  padding: 10px 40px; }
+  button.submit-btn:hover {
+    color: #26b3be;
+    background-color: white;
+    border-color: #26b3be; }
+
+p.footer-text {
+  text-align: center; }
+
+/*# sourceMappingURL=style.css.map */
